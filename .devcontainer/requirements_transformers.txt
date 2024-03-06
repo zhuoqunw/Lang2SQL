@@ -1,0 +1,7 @@
+torch 
+torchvision
+transformers
+IProgress
+ipywidgets
+accelerate
+bitsandbytes
