@@ -1,0 +1,8 @@
+# ignore .zshrc file
+*.zshrc
+
+# ignore the data files 
+data/
+
+.ipynb_checkpoints
+
