@@ -1,3 +1,4 @@
+[On Windows]
 Open Anaconda Prompt:
 
 cd [path]
@@ -9,6 +10,12 @@ pip3 install -r ./.devcontainer/requirements_core.txt
 pip3 install -r ./.devcontainer/requirements_openai.txt
 
 
+[In Mac]
+Open terminal:
+a) cd into project directory
+b) python3 -m venv <my_virtual_env_name>
+c) source <my_virtual_env_name>/bin/activate
+d) pip3 install <packages>
+e) deactivate
 
-
-OPENAI_KEY=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
+OPENAI_KEY=sk-proj-iTkXmrdYl4TAxAonBFaBT3BlbkFJ0qqU4tDjKNTSIkWtsiVS
