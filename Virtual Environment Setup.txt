@@ -18,4 +18,3 @@ c) source <my_virtual_env_name>/bin/activate
 d) pip3 install <packages>
 e) deactivate
 
-OPENAI_KEY=sk-proj-iTkXmrdYl4TAxAonBFaBT3BlbkFJ0qqU4tDjKNTSIkWtsiVS
